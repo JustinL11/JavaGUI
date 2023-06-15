@@ -34,7 +34,6 @@ test.txt<br>
 
 >#### ***Design Notes***
 
-This is the second project for CSC 391 Programming Languages.
 This project serves to practice common Java Testing practices as well as learning how to implement basic GUIs.
 
 ...
